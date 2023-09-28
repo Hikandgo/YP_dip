@@ -1,4 +1,4 @@
-package praktikum;
+package praktikum.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

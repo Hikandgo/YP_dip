@@ -1,6 +1,9 @@
-package praktikum;
+package praktikum.model;
 
 import io.restassured.response.Response;
+import praktikum.model.CreateUser;
+import praktikum.model.LoginUser;
+
 import static io.restassured.RestAssured.given;
 
 public class UserClient {

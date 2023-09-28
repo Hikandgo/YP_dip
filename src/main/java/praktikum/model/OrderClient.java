@@ -1,6 +1,8 @@
-package praktikum;
+package praktikum.model;
 
 import io.restassured.response.Response;
+import praktikum.model.Ingredients;
+
 import static io.restassured.RestAssured.given;
 
 public class OrderClient {
